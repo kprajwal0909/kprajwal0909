@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kprajwal0909
 - 👀 I’m interested in backend technology and innovative tech solutions.
-- 🌱 I’m currently learning J2EE and Spring Boot.
+- 🌱 I’m currently learning J2EE and Spring.
 - 💞️ I’m looking to collaborate on purpose-driven projects.
 - 📫 How to reach me: prajwalk008@gmail.com
 - 😄 Pronouns: He/Him
